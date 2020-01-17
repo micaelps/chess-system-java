@@ -1,6 +1,5 @@
 package boardgame;
 
-import javax.swing.text.StyledEditorKit.BoldAction;
 
 public class Board {
 	private int rows;
